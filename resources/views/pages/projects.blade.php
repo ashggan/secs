@@ -33,26 +33,7 @@
               </div>
             </div>
           </div>
-
-          <div class="col-md-6 d-flex align-items-stretch">
-            <div class="card">
-              <div class="card-img">
-                <img src="img/projects/IMG_0131.jpg" alt="...">
-              </div>
-              <div class="card-body">
-                <h5 class="card-title"><a href="">water for peace    </a></h5>
-                <p class="fst-italic text-center">South Kordfan State ,  August, 2010</p>
-                <p class="card-text">To contribute to local peace building processes in South Kordofan State through enhanced access to sanitation, safe and adequate water for human and animal consumption.</p>
-                <div>
-                    <a href="/water">
-                    Read more
-                    </a>
-
-                </div>
-              </div>
-            </div>
-          </div>
-        
+ 
         </div>
 
       </div>

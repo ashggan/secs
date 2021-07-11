@@ -85,9 +85,8 @@
                     <span>Brandon</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
-                    <i class="bx bx-user"></i>&nbsp;20
-                    &nbsp;&nbsp;
-                    <i class="bx bx-heart"></i>&nbsp;85
+                    <i class="bx bx-download"></i>&nbsp;Download
+                    &nbsp;&nbsp; 
                   </div>
                 </div>
               </div>

@@ -862,8 +862,8 @@ p{
 
 .courses .course-content .price {
   margin: 0;
-  font-weight: 700;
-  font-size: 18px;
+  /* font-weight: 700; */
+  font-size: 10px;
   color: #37423b;
 }
 
@@ -879,8 +879,8 @@ p{
 
 .courses .trainer .trainer-profile span {
   padding-left: 10px;
-  font-weight: 600;
-  font-size: 16px;
+  /* font-weight: 600; */
+  font-size: 15px;
   color: #5a6c60;
 }
 
